@@ -1,0 +1,103 @@
+.navbar{
+    background-image: linear-gradient(to right,#a517ba,#5f1782)!important;
+}   
+   
+.navbar-nav .nav-item .nav-link{
+    color: white !important;
+    font-weight:600;
+    padding: 0px 15px;
+}
+.navbar-nav .nav-item .nav-link.active{
+    background:green;
+    border-radius: 4px;
+}
+/*--banner section start here--*/
+#banner{
+    background-image: linear-gradient(to right,#a517ba,#5f1782)!important;
+}
+#banner a img{
+    width: 70px;
+    margin-right: 8px;
+}
+#banner a{
+    color: white;
+    text-decoration: none;
+}
+.wave1-banner{
+     width: 100%!important;
+}
+/*--SERVICES SECTION START HERE--*/
+.title{
+    text-align: center;
+}
+.title:after{
+    content:'';
+    display: block;
+    background: #7b1798;
+    height: 5px;
+    width: 200px;
+    margin: auto;
+    transform: translateY(15px);
+}
+.services-box img{
+width: 100px;
+}
+.services-button{
+    background-image: linear-gradient(to right,#a517ba,#5f1782)!important;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 20px;
+}
+/*--about section start here--*/
+#about{
+    background: #f8f9fa;
+}
+
+/*--testimonials start here--*/
+.user-details img{
+    width: 80px;
+}
+.user-details{
+    border-left: 4px solid #7b1798;
+}
+/*-- social media--*/
+#social-media img{
+    width: 60px;
+    transition: 0.5s;
+}
+#social-media img:hover{
+    transform: translateY(-10px);
+}
+#social-media{
+    background:#f8f9fa;
+}
+
+
+/*----footer----*/
+#footer{
+    background-image: linear-gradient(to right,#a517ba,#5f1782)!important;
+}
+.footer-box .fas{
+   font-size: 25px;
+   background-image: linear-gradient(to right,#a517ba,#5f1782)!important;
+   width: 40px;
+   height: 40px;
+   border-radius: 4px;
+   padding-top: 7px;
+   margin-right: 10px;
+   text-align: center;
+   margin-right: 8px;
+}
+.footer-box input{
+    border-radius: 0;
+    border: none;
+}
+.footer-box button{
+    background-image: linear-gradient(to right,#a517ba,#5f1782)!important;
+    border: none;
+    padding: 8px 15px;
+    margin-top: 15px;
+    color: white;
+    border-radius: 10px;
+}
