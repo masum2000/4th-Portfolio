@@ -26,6 +26,9 @@
 .wave1-banner{
      width: 100%!important;
 }
+h1{
+    color: tomato;
+}
 .lead{
   color: #f8f9fa;
 }
